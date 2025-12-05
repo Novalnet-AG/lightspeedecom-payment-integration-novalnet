@@ -1,5 +1,16 @@
 *** Change Log ***
 
+= 3.1.0 - 2025.12.05 =
+* New - Implemented TWINT payment
+* Fix - Novalnet configuration is now controlled based on the respective shop ID
+* Fix - Payment status handled for refund and instalment cancellation transactions
+* Enhanced - Date of birth validation regulated on checkout page
+* Enhanced - Novalnet payments will be displayed individually on the checkout page based on the payments activated in the Novalnet Admin Portal
+* Enhanced - API/Webhook Response is normalized in the payment app for Instalment Payments
+* Enhanced - Minification of CSS and JavaScript files for enhanced performance
+* Removed - Enable payment settings in Novalnet Global Configuration
+* Removed - Sofort, giropay, and Barzahlen/viacash payment methods 
+
 = 3.0.0 - 2024.05.09 =
 * New - Payment app built with a new v2 API structure with enhanced features with better usability
 * New - Payment App now supports the shop-based refund feature
@@ -34,3 +45,4 @@
 
 = 1.0.0 - 2019.07.25 =
 *             - New release
+
