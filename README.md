@@ -1,7 +1,7 @@
-## Novalnet Payment Application for Lightspeed eCom
-Novalnet payment app for Lightspeed eCom simplifies your daily work by automating the entire payment process, from checkout till collection. This application is designed to help you increase your sales by offering various international and local payment methods.
+## Novalnet Payment Application for Lightspeed eCom (C-Series)
+Novalnet payment app for Lightspeed eCom (C-Series) simplifies your daily work by automating the entire payment process, from checkout till collection. This application is designed to help you increase your sales by offering various international and local payment methods.
 
-## Why Lightspeed eCom with Novalnet?
+## Why Lightspeed eCom (C-Series) with Novalnet?
 Lightspeed is a cloud-based point of sale (POS) solution. Lightspeed offers a fully integrated, e-commerce solution that allows customers to manage in-store and online inventory, have a single view of customers and analyze multi-channel sales data.
 
 ## Key features and Advantages:
@@ -34,8 +34,6 @@ Lightspeed is a cloud-based point of sale (POS) solution. Lightspeed offers a fu
 - Invoice with payment guarantee
 - Direct Debit SEPA with payment guarantee
 - iDEAL
-- Sofort
-- Barzahlen/viacash
 - Przelewy24
 - eps
 - PayPal
@@ -52,7 +50,7 @@ Lightspeed is a cloud-based point of sale (POS) solution. Lightspeed offers a fu
 - TWINT
 
 ## App Installation
-To install the Lightspeed eCom Novalnet Payment app, please go to your Lightspeed eCom shop system and follow the steps below:
+To install the Lightspeed eCom (C-Series) Novalnet Payment app, please go to your Lightspeed eCom (C-Series) shop system and follow the steps below:
 
 ### Step 1
 Login to shop backend and navigate to *Apps &#8594; App Store*
@@ -67,7 +65,7 @@ Activate the preferred payment methods for the Lightspeed shop
 See our License Agreement at: https://www.novalnet.com/payment-plugins-free-license/
 
 ## Documentation & Support
-For more information about the Lightspeed eCom Payment App Integration by Novalnet, please get in touch with us: <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a> or +49 89 9230683-20<br>
+For more information about the Lightspeed eCom (C-Series) Payment App Integration by Novalnet, please get in touch with us: <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a> or +49 89 9230683-20<br>
 
 Novalnet AG<br>
 Zahlungsinstitut (ZAG)<br>
