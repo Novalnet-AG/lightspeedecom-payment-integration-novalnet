@@ -33,7 +33,7 @@ Lightspeed is a cloud-based point of sale (POS) solution. Lightspeed offers a fu
 - Prepayment
 - Invoice with payment guarantee
 - Direct Debit SEPA with payment guarantee
-- iDEAL
+- iDEAL | Wero
 - Przelewy24
 - eps
 - PayPal
@@ -46,7 +46,6 @@ Lightspeed is a cloud-based point of sale (POS) solution. Lightspeed offers a fu
 - WeChat Pay
 - Trustly
 - Blik
-- Payconiq
 - TWINT
 
 ## App Installation
