@@ -1,5 +1,9 @@
 *** Change Log ***
 
+= 3.1.1 - 2026.06.01 =
+* Enhanced - Optimized DOB handling and validation on the checkout page to improve customer authorization
+* Enhanced - iDEAL payment logo and title to iDEAL | Wero
+
 = 3.1.0 - 2025.12.05 =
 * New - Implemented TWINT payment
 * Fix - Novalnet configuration is now controlled based on the respective shop ID
